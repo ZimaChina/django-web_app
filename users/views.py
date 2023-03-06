@@ -15,8 +15,8 @@ def register(request):
                 messages.error(request, f'Email "{email}" is already taken.')
             else:
                 form.save()
-                messages.success(request, f'Account created for {username}')
-                return redirect('blog-home')
+                messages.success(request, f'Your account has been created! you are now able to log in.')
+                return redirect('login')
 
     else:
         form = UserRegisterForm()
