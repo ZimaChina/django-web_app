@@ -8,11 +8,11 @@ Search functionality: Users can search for specific tasks by keyword.
 Pagination: Tasks are displayed in a paginated manner to improve user experience.
 
 ## Technologies Used
-Django
-SQLite (for development)
-Bootstrap
-HTML/CSS
-JavaScript
+· Django
+· SQLite (for development)
+· Bootstrap
+· HTML/CSS
+· JavaScript
 
 ## Installation and Setup
 To run this project locally, follow these steps:
