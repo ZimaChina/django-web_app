@@ -1,5 +1,7 @@
 # django-web_app
-This is a web application built with Django, a Python-based web framework, that allows users to create and manage tasks. The project is currently in progress and additional features will be added over time.
+This is a web application built with Django, a Python-based web framework, that allows users to create and manage tasks. 
+Project is already finished. In a beginning it was made to be used with a linode server, but after a few issues with payment methods it became a second option for me.
+Right now I consider it finished after I used it on an EC2 instance. Tutorials can be found on youtube, and easy steps like this repository(https://github.com/ZimaChina/django-on-ec2) will help.
 
 ## Features
 User registration and authentication: Users can create an account, log in, and log out.
